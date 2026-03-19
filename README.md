@@ -2,5 +2,5 @@
 This repository functions as an example for how to create and maintain a github repository.
 # Installation
 In order to install, download the latest python file in main and run it in an interpreter of your choice.
-# Usage Examples
+# Usage Exampls
 This python script can be used to run the simple "Hello, World!" program that is a first step for many programmers.
