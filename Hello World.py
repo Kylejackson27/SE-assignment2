@@ -1,4 +1,4 @@
 print("Hello, World!")
 
-fname = input("Enter your name: ")
+first_name = input("Enter your first name: ")
 print("Hi,", name)
